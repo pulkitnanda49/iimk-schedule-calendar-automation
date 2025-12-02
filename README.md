@@ -35,15 +35,8 @@ Create a new Google Sheet with two tabs:
 
 - `Main Sheet`
 - `Subjects`
+  <img width="1070" height="81" alt="image" src="https://github.com/user-attachments/assets/9c472175-9834-4b4b-9ed6-b7401e830efe" />
 
-(Optional, recommended)  
-Import the official schedule automatically:
-
-```
-=IMPORTRANGE("<OFFICIAL_SHEET_URL>", "Main Sheet!A:Z")
-```
-
-This keeps your Main Sheet updated automatically when IIMK publishes changes.
 
 ---
 
@@ -56,6 +49,8 @@ Open the `Subjects` tab and fill in:
 | EHLAM-002   | 2     |
 
 Both values **must match** Main Sheet for the script to detect your classes.
+<img width="979" height="67" alt="image" src="https://github.com/user-attachments/assets/eaa0af94-ed8e-4daf-abb6-b8851db3d4ee" />
+
 
 ---
 
